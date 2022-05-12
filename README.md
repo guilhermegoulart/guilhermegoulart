@@ -1,7 +1,7 @@
 ### Oii! Eu sou Guilherme Goulart 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript
+- 🌱 Aprendendo CSS / Java
 - 😄 Pronouns: ele/dele
 
 
