@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Goulart, Desenvolvedor Front-End e Análise de Sistemas! 
+### Olá! Meu nome é Guilherme Goulart, eu sou Desenvolvedor Front-End, seja bem vindo ao meu repositório remoto.
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript / CSS / Java 
