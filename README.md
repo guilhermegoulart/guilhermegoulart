@@ -1,4 +1,4 @@
-### Olá! Meu nome é Guilherme Goulart, eu sou Desenvolvedor Front-End, seja bem vindo ao meu repositório remoto.
+### Olá! Meu nome é Guilherme Goulart, eu sou Desenvolvedor Front-End e seja bem vindo ao meu repositório remoto.
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript / CSS / Java 
