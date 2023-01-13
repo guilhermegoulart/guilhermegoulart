@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Goulart, sou Desenvolvedor Front-End e Curso Análise de Sistemas! 
+### Olá eu sou o Guilherme Goulart, Desenvolvedor Front-End e Análise de Sistemas! 
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript / CSS / Java 
