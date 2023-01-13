@@ -1,8 +1,5 @@
 ### Olá! Meu nome é Guilherme Goulart, eu sou Desenvolvedor Front-End e seja bem vindo(a) ao meu repositório remoto.
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JavaScript / CSS / Java 
-
 <div align="center">
   <a href="https://github.com/guilhermegoulart">
 </div>
