@@ -19,7 +19,7 @@
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Snake animation](https://github.com/guilhermegoulart/guilhermegoulart/blob/output/github-contribution-grid-snake.svg)
   
