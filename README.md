@@ -26,7 +26,5 @@
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&hide=html,css,kotlin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Snake animation](https://github.com/guilhermegoulart/guilhermegoulart/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
   
