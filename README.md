@@ -23,8 +23,8 @@
      <a href = "mailto:guilhermegoulartmagela@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=gruvbox)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
