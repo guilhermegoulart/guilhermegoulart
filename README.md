@@ -17,6 +17,8 @@
     <a href="https://www.instagram.com/guilherme_goulart.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
      <a href = "mailto:guilhermegoulartmagela@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=radical)
   
   ![Snake animation](https://github.com/guilhermegoulart/guilhermegoulart/blob/output/github-contribution-grid-snake.svg)
   
