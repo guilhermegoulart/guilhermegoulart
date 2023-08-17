@@ -22,9 +22,5 @@
     <a href="https://www.instagram.com/guilherme_goulart.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
      <a href = "mailto:guilhermegoulartmagela@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
   </div>
   
