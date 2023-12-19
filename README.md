@@ -13,8 +13,11 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-  
+<div>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
   
   ##
   
