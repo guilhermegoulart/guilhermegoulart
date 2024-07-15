@@ -1,5 +1,5 @@
 ### Olá, seja bem vindo(a) ao meu repositório remoto! 
-### Meu nome é Guilherme Goulart, eu sou estudante de Análise e Desenvolvimento de Sistemas, e apaixonado por Desenvolvemento de Software.
+### Meu nome é Guilherme Goulart, eu sou formado em Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento de Software com C# / .NET
 
 <div align="center">
   <a href="https://github.com/guilhermegoulart">
