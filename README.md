@@ -1,6 +1,6 @@
 ### Olá, seja muito bem vindo(a) ao meu repositório remoto! 
 ### Me chamo Guilherme e atualmente focado em desenvolvimento full-stack, sempre gostei das duas áreas tanto do front-end, quando da lógica que fica por trás.
-### Me formei em Análise e Des. de Sistemas, e busco adquirir novos conhecimentos, todos os dias.
+### Me formei em Análise e Des. de Sistemas, e tenho buscado adquirir me aprimorar todos os dias.
 
 <div align="center">
   <a href="https://github.com/guilhermegoulart">
