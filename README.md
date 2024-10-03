@@ -1,5 +1,6 @@
-### Olá, seja bem vindo(a) ao meu repositório remoto! 
-### Meu nome é Guilherme Goulart, eu sou formado em Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento de Software Front-End com React.js
+### Olá, seja muito bem vindo(a) ao meu repositório remoto! 
+### Me chamo Guilherme e atualmente focado em desenvolvimento full-stack, sempre gostei das duas áreas tanto do front-end, quando da lógica que fica por trás.
+### Me formei em Análise e Des. de Sistemas, e busco adquirir novos conhecimentos, todos os dias.
 
 <div align="center">
   <a href="https://github.com/guilhermegoulart">
@@ -16,9 +17,8 @@
 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegoulart&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats);
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoulart&layout=compact&theme=tokyonight)
  
-  
   ##
   
   <div>
